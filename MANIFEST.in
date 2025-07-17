@@ -1,0 +1,9 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include pyEpicsLogger *.py
+recursive-include test *.py *.sh *.txt *.md
+recursive-include data *.csv
+recursive-include analysis *.py
+global-exclude __pycache__
+global-exclude *.py[co]

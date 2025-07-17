@@ -1,0 +1,16 @@
+# Example PV list for EPICS Logger
+# Lines starting with # are comments and will be ignored
+# One PV name per line
+
+# Test IOC channels
+TEST:HEARTBEAT
+TEST:COUNTER
+TEST:TEMPERATURE
+TEST:PRESSURE
+TEST:FLOW
+TEST:ALARM
+
+# Add your own PV names here
+# DEVICE:TEMPERATURE
+# DEVICE:PRESSURE
+# DEVICE:STATUS
