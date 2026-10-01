@@ -18,7 +18,7 @@ setup(
     name="pyEpicsLogger",
     version="1.0.0",
     author="Jacob Taylor",
-    author_email="jtaylor@keck.hawaii.edu",
+    author_email="jacobataylor7@gmail.com",
     description="A command-line tool to monitor multiple EPICS Process Variable channels and log all value changes with timestamps to CSV files",
     long_description=long_description,
     long_description_content_type="text/markdown",

@@ -324,7 +324,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Jacob Taylor**
 - GitHub: [@jacotay7](https://github.com/jacotay7)
-- Email: jtaylor@keck.hawaii.edu
+- Email: jacobataylor7@gmail.com
 
 ## Acknowledgments
 
